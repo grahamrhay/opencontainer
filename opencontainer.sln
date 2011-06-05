@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenContainer", "src\OpenContainer\OpenContainer.csproj", "{361E6B17-FC4A-4AC2-AD31-A6F161ECA207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenContainer.Tests.Unit", "src\OpenContainer.Tests.Unit\OpenContainer.Tests.Unit.csproj", "{EEAA2BD0-8BC3-427F-B10A-65CD8F49A315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361E6B17-FC4A-4AC2-AD31-A6F161ECA207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361E6B17-FC4A-4AC2-AD31-A6F161ECA207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361E6B17-FC4A-4AC2-AD31-A6F161ECA207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361E6B17-FC4A-4AC2-AD31-A6F161ECA207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEAA2BD0-8BC3-427F-B10A-65CD8F49A315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAA2BD0-8BC3-427F-B10A-65CD8F49A315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAA2BD0-8BC3-427F-B10A-65CD8F49A315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAA2BD0-8BC3-427F-B10A-65CD8F49A315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

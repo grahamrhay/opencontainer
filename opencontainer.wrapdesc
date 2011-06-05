@@ -1,0 +1,5 @@
+﻿depends: openwrap content
+depends: openlogger
+depends: nunit
+build: msbuild; profile=net35; project=src\OpenContainer\OpenContainer.csproj
+name: opencontainer
